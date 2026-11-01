@@ -1,0 +1,14 @@
+site_name: Java desde cero
+site_description: Guía de programación Java para principiantes
+site_author: Estudiante de DAW
+
+theme:
+  name: material
+  language: es
+
+nav:
+  - Inicio: index.md
+  - Introducción a Java: introduccion.md
+  - Variables y tipos de datos: variables.md
+  - Condicionales: condicionales.md
+  - Bucles: bucles.md
